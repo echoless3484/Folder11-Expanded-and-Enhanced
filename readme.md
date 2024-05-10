@@ -1,3 +1,3 @@
-# Folder11 Ico
+# Folder11 Expanded and Enhanced
 
-Automated repo for [Folder11](https://github.com/icon11-community/Folder11).
+Folder11 from the icon11-community, but with actual icons straight from imageres.dll & shell32.dll
